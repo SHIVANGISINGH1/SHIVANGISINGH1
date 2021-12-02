@@ -13,7 +13,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivangi-singh-4686b5206/) 
 - 😄 Pronouns: She/Her
 
-<h4>Languages and Tools</h4>
+<h3>Languages and Tools</h3>
 <p>
 <img src="https://user-images.githubusercontent.com/80265624/144461549-72fd8110-3e02-436b-a4c8-46be12d458a7.png" alt="CPP" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/80265624/144460580-ac8618fa-cd3d-4489-afee-eed1f68e9284.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
