@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on Web Develpment
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Github
+- 🌟 Read my blogs on: [Dev.To](https://dev.to/shivangisingh1)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivangi-singh-4686b5206/) 
 - 😄 Pronouns: She/Her
 
